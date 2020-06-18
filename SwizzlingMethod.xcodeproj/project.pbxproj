@@ -13,6 +13,7 @@
 		80C89483249B9B10005CBEAF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80C89481249B9B10005CBEAF /* Main.storyboard */; };
 		80C89485249B9B14005CBEAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80C89484249B9B14005CBEAF /* Assets.xcassets */; };
 		80C89488249B9B14005CBEAF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80C89486249B9B14005CBEAF /* LaunchScreen.storyboard */; };
+		80C89490249B9CBE005CBEAF /* UIKit Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80C8948F249B9CBE005CBEAF /* UIKit Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		80C89484249B9B14005CBEAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		80C89487249B9B14005CBEAF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		80C89489249B9B14005CBEAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		80C8948F249B9CBE005CBEAF /* UIKit Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIKit Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				80C89484249B9B14005CBEAF /* Assets.xcassets */,
 				80C89486249B9B14005CBEAF /* LaunchScreen.storyboard */,
 				80C89489249B9B14005CBEAF /* Info.plist */,
+				80C8948F249B9CBE005CBEAF /* UIKit Extension.swift */,
 			);
 			path = SwizzlingMethod;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				80C89480249B9B10005CBEAF /* ViewController.swift in Sources */,
 				80C8947C249B9B10005CBEAF /* AppDelegate.swift in Sources */,
 				80C8947E249B9B10005CBEAF /* SceneDelegate.swift in Sources */,
+				80C89490249B9CBE005CBEAF /* UIKit Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
